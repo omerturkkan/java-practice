@@ -4,6 +4,6 @@ public class JenkinsGateDemo {
 
     public static void main(String[] args) {
         // Missing semicolon on purpose to break compilation
-        System.out.println("Jenkins gate demo")
+        System.out.println("Jenkins gate demo");
     }
 }
